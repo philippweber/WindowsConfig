@@ -20,3 +20,8 @@ ssh -T -p 443 git@ssh.github.com
 
 git remote set-url --push origin 'ssh://git@ssh.github.com:443/philippweber/WindowsConfig.git'
 ```
+
+## WSL
+
+WSL related commands
+
