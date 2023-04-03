@@ -25,3 +25,7 @@ git remote set-url --push origin 'ssh://git@ssh.github.com:443/philippweber/Wind
 
 WSL related commands
 
+## SeleniumTesting
+
+Selenium experiments
+
