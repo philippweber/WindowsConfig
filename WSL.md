@@ -21,4 +21,10 @@ wsl --install --distribution Ubuntu
 wsl --list
 
 wsl --list --all --verbose
+
+# Start distribution
+wsl --distribution ubuntu
+
+wsl --help
 ```
+
